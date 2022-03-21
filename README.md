@@ -1,6 +1,6 @@
 # 中国 Android 个人技术开源排行榜
 
-* 项目地址：[Github](https://github.com/getActivity/AndroidOpenSourceCelebrityList)、[码云](https://gitee.com/getActivity/AndroidOpenSourceCelebrityList)
+* 项目地址：[Github](https://github.com/getActivity/AndroidGithubBoss)、[码云](https://gitee.com/getActivity/AndroidGithubBoss)
 
 * 在某一天，我突发奇想，Android 做开源的大佬很多，但是大多数人无法知道都有哪些人，于是乎我开源了一个项目，用于将 Android 行业中的开源大佬聚齐起来，大家不仅可以认识到这些开源大佬，还能知道他们有哪些优秀的开源作品，可以供我们学习和参考。
 
