@@ -1,4 +1,4 @@
-# 中国 Android 个人技术开源影响力排行榜（不定时更新）
+# Android 个人技术开源影响力排行榜（不定时更新）
 
 * 项目地址：[Github](https://github.com/getActivity/AndroidGithubBoss)
 
